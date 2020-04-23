@@ -1,26 +1,22 @@
-# ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
+# ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) Equipo 1 a tope
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://cd35df40-ec5e-4442-9a6e-2850ab26c913.ws-eu01.gitpod.io/)
 
-The most basic boilerplate for any 4Geeks Academy Student using the [gitpod.io](gitpod.io) coding editor.
+## What we almost did?!
 
-[![How to open html/css preview of my project in gitpod](https://ucarecdn.com/573d0bef-9c8c-48dd-a6ef-401972dff96d/)](https://youtu.be/dfbDCMu_p-0)
-
-## What to do next?
-
-Create a `index.html` file with the [basic HTML structure](http://content.breatheco.de/lesson/what-is-html-learn-html#page-structure) and see it live by running web-server using the following command:
+We created 3 branches:
+- Barra de navegacion
+- First header
+- Second header
 
 ```sh
-$ pip3 install flask && python3 server.py
+With 2 merges
 ```
-
-- You can create as many HTML files you want
-- You can also create CSS files and you can import them onto your website using a `<link>` tag placed between the `<head></head>` tags, like this:
 
 ```html
 <head>
   ...
-  <link rel="stylesheet" type="text/css" href="styles.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
   ...
 </head>
 ```
