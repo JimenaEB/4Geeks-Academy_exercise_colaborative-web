@@ -1,13 +1,14 @@
-# ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) Equipo 1 a tope
+# ![Imagen Background](https://raw.githubusercontent.com/breatheco-de/exercise-git-collabration/master/website1/assets/img/bg.jpg) HTML Hello
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://cd35df40-ec5e-4442-9a6e-2850ab26c913.ws-eu01.gitpod.io/)
+[![Abir](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
 
 ## What we almost did?!
 
-We created 3 branches:
-- Barra de navegacion
-- First header
-- Second header
+[![How to open html/css preview of my project in gitpod](https://ucarecdn.com/573d0bef-9c8c-48dd-a6ef-401972dff96d/)](https://youtu.be/dfbDCMu_p-0)
+
+## What did we do ?
+
+Crear a repositorio `index.html` file with the [basic HTML structure](http://content.breatheco.de/lesson/what-is-html-learn-html#page-structure) and see it live by running web-server using the following command:
 
 ```sh
 With 2 merges
