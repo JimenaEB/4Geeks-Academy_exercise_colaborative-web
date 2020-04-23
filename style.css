@@ -1,5 +1,15 @@
 
+.main{
+    background-image: url(https://raw.githubusercontent.com/breatheco-de/exercise-git-collabration/master/website1/assets/img/bg.jpg)
+}
 
-.main   {
-    background-image: url("https://raw.githubusercontent.com/breatheco-de/exercise-git-collabration/master/website1/assets/img/bg.jpg")
+#imgcard{
+    padding: 0;
+}
+#h1prueba{
+    font-weight: 625;
+    font-size: 750%;
+}
+#h2prueba{
+    font-weight: 600;
 }
