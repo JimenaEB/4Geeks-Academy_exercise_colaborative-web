@@ -11,7 +11,7 @@
 Crear a repositorio `index.html` file with the [basic HTML structure](http://content.breatheco.de/lesson/what-is-html-learn-html#page-structure) and see it live by running web-server using the following command:
 
 ```sh
-With 2 merges
+With 3 merges
 ```
 
 ```html
